@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Map1-Minth.unity
+- path: Assets/Scenes/CHRIS-COPY-MINTH.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
