@@ -1,8 +1,16 @@
 Library\Bee\artifacts\mvdfrm\Unity.Burst.Editor.ref.dll_4F7B73E229D756B2.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Burst.ref.dll_A9D47564F0C574EF.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Formats.Fbx.Editor.ref.dll_A7A854D99B510B88.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Formats.Fbx.Runtime.ref.dll_29D1D00097DE3223.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Mathematics.Editor.ref.dll_BC6BEDEBC6F8BA8C.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Mathematics.ref.dll_09002A919DF91B75.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.PlasticSCM.Editor.ref.dll_038935ADFCD4A11D.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Polybrush.Editor.ref.dll_9634EB8FA7C67E54.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Polybrush.ref.dll_777CBDE8216FBB2D.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.ProBuilder.AddOns.Editor.ref.dll_2BB0992EA7CE9E4F.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.ProBuilder.AssetIdRemapUtility.ref.dll_9A4910B223D3D1A5.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.ProBuilder.Editor.ref.dll_C1BD6BF01715933C.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.ProBuilder.ref.dll_18B36DF7373A77C5.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.RenderPipeline.Universal.ShaderLibrary.ref.dll_F7477446ADE85C14.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.RenderPipelines.Core.Editor.ref.dll_5F7FF7A966BF64B8.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.RenderPipelines.Core.Runtime.ref.dll_7D87AD5D9C29EDF3.mvfrm
@@ -17,6 +25,8 @@ Library\Bee\artifacts\mvdfrm\Unity.Services.Core.Analytics.ref.dll_629B993A258DF
 Library\Bee\artifacts\mvdfrm\Unity.Services.Core.Environments.ref.dll_5B2DDA4F5201DC36.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Services.Core.ref.dll_20594DC17355841E.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.ShaderGraph.Editor.ref.dll_319B33408212A519.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.TerrainTools.Editor.ref.dll_2535B19754E7F054.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.TerrainTools.ref.dll_500F17F5845F292D.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.TextMeshPro.Editor.ref.dll_37E92434B2D8A6CF.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.TextMeshPro.ref.dll_A4B478B3CE6E8702.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Timeline.Editor.ref.dll_0DA365A2C678CBF9.mvfrm
