@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637919724272771511
-    m_Hash: 382539918
+      ticks: 637920530744067554
+    m_Hash: 3167294260
   m_LockFileStatus:
     m_FilePath: E:/UnityProjects/Project-Silent_Majora/Project-Silent_Majora/Project_Folder-Silent_Majora/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637919724273571996
-    m_Hash: 3644530243
+      ticks: 637920530744277511
+    m_Hash: 556255607
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -1148,6 +1148,104 @@ m_ResolvedPackages:
     path: 
   unityLifecycle:
     version: 1.6.4
+    nextVersion: 
+- packageId: com.unity.toolchain.win-x86_64-linux-x86_64@2.0.1
+  testable: 0
+  isDirectDependency: 1
+  version: 2.0.1
+  source: 1
+  resolvedPath: E:\UnityProjects\Project-Silent_Majora\Project-Silent_Majora\Project_Folder-Silent_Majora\Library\PackageCache\com.unity.toolchain.win-x86_64-linux-x86_64@2.0.1
+  assetPath: Packages/com.unity.toolchain.win-x86_64-linux-x86_64
+  name: com.unity.toolchain.win-x86_64-linux-x86_64
+  displayName: Toolchain Win Linux x64
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: Cross-compilation toolchain to build player target Linux x86_64 on
+    host Windows x86_64
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.1.4-preview
+    - 0.1.5-preview
+    - 0.1.6-preview
+    - 0.1.7-preview
+    - 0.1.8-preview
+    - 0.1.9-preview
+    - 0.1.10-preview
+    - 0.1.11-preview
+    - 0.1.13-preview
+    - 0.1.14-preview
+    - 0.1.15-preview
+    - 0.1.16-preview
+    - 0.1.17-preview
+    - 0.1.18-preview
+    - 0.1.19-preview
+    - 0.1.20-preview
+    - 0.1.21-preview
+    - 1.0.0
+    - 2.0.0
+    - 2.0.1
+    compatible:
+    - 0.1.4-preview
+    - 0.1.5-preview
+    - 0.1.6-preview
+    - 0.1.7-preview
+    - 0.1.8-preview
+    - 0.1.9-preview
+    - 0.1.10-preview
+    - 0.1.11-preview
+    - 0.1.13-preview
+    - 0.1.14-preview
+    - 0.1.15-preview
+    - 0.1.16-preview
+    - 0.1.17-preview
+    - 0.1.18-preview
+    - 0.1.19-preview
+    - 0.1.20-preview
+    - 0.1.21-preview
+    - 1.0.0
+    - 2.0.0
+    - 2.0.1
+    verified: 
+  dependencies:
+  - name: com.unity.sysroot
+    version: 2.0.2
+  - name: com.unity.sysroot.linux-x86_64
+    version: 2.0.1
+  resolvedDependencies:
+  - name: com.unity.sysroot
+    version: 2.0.2
+  - name: com.unity.sysroot.linux-x86_64
+    version: 2.0.1
+  keywords:
+  - toolchain
+  - windows
+  - linux
+  - cross-compilation
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637874590350000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/com.unity.sysroot.git
+    revision: 79ad97256e4e2cbdfac64dec6ee1932a5c3aeacc
+    path: 
+  unityLifecycle:
+    version: 
     nextVersion: 
 - packageId: com.unity.ugui@1.0.0
   testable: 0
@@ -3034,6 +3132,163 @@ m_ResolvedPackages:
     type: 
     url: 
     revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+- packageId: com.unity.sysroot@2.0.2
+  testable: 0
+  isDirectDependency: 0
+  version: 2.0.2
+  source: 1
+  resolvedPath: E:\UnityProjects\Project-Silent_Majora\Project-Silent_Majora\Project_Folder-Silent_Majora\Library\PackageCache\com.unity.sysroot@2.0.2
+  assetPath: Packages/com.unity.sysroot
+  name: com.unity.sysroot
+  displayName: Sysroot Base
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: This is the base sysroot package required by all sysroot and toolchain
+    packages
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.1.7-preview
+    - 0.1.8-preview
+    - 0.1.9-preview
+    - 0.1.10-preview
+    - 0.1.11-preview
+    - 0.1.12-preview
+    - 0.1.14-preview
+    - 0.1.15-preview
+    - 0.1.16-preview
+    - 0.1.17-preview
+    - 0.1.18-preview
+    - 0.1.19-preview
+    - 1.0.0
+    - 2.0.0
+    - 2.0.2
+    compatible:
+    - 0.1.7-preview
+    - 0.1.8-preview
+    - 0.1.9-preview
+    - 0.1.10-preview
+    - 0.1.11-preview
+    - 0.1.12-preview
+    - 0.1.14-preview
+    - 0.1.15-preview
+    - 0.1.16-preview
+    - 0.1.17-preview
+    - 0.1.18-preview
+    - 0.1.19-preview
+    - 1.0.0
+    - 2.0.0
+    - 2.0.2
+    verified: 
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - unity
+  - linux
+  - sysroot
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637874589190000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/com.unity.sysroot.git
+    revision: 79ad97256e4e2cbdfac64dec6ee1932a5c3aeacc
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+- packageId: com.unity.sysroot.linux-x86_64@2.0.1
+  testable: 0
+  isDirectDependency: 0
+  version: 2.0.1
+  source: 1
+  resolvedPath: E:\UnityProjects\Project-Silent_Majora\Project-Silent_Majora\Project_Folder-Silent_Majora\Library\PackageCache\com.unity.sysroot.linux-x86_64@2.0.1
+  assetPath: Packages/com.unity.sysroot.linux-x86_64
+  name: com.unity.sysroot.linux-x86_64
+  displayName: Sysroot Linux x64
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: Sysroot used to build unity player for linux x86_64
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.1.6-preview
+    - 0.1.7-preview
+    - 0.1.8-preview
+    - 0.1.9-preview
+    - 0.1.10-preview
+    - 0.1.11-preview
+    - 0.1.12-preview
+    - 0.1.13-preview
+    - 0.1.14-preview
+    - 0.1.15-preview
+    - 1.0.0
+    - 2.0.0
+    - 2.0.1
+    compatible:
+    - 0.1.6-preview
+    - 0.1.7-preview
+    - 0.1.8-preview
+    - 0.1.9-preview
+    - 0.1.10-preview
+    - 0.1.11-preview
+    - 0.1.12-preview
+    - 0.1.13-preview
+    - 0.1.14-preview
+    - 0.1.15-preview
+    - 1.0.0
+    - 2.0.0
+    - 2.0.1
+    verified: 
+  dependencies:
+  - name: com.unity.sysroot
+    version: 2.0.2
+  resolvedDependencies:
+  - name: com.unity.sysroot
+    version: 2.0.2
+  keywords:
+  - unity
+  - linux
+  - sysroot
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637874589360000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/com.unity.sysroot.git
+    revision: 79ad97256e4e2cbdfac64dec6ee1932a5c3aeacc
     path: 
   unityLifecycle:
     version: 

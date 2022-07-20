@@ -98,7 +98,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-  m_LightingSettings: {fileID: 4890085278179872738, guid: ea4029fb9fe1b574a96d44ff9d223379,
+  m_LightingSettings: {fileID: 4890085278179872738, guid: bfdb8da6443e81c4797ed9a817fe4027,
     type: 2}
 --- !u!196 &4
 NavMeshSettings:
@@ -123,7 +123,7 @@ NavMeshSettings:
     preserveTilesOutsideBounds: 0
     debug:
       m_Flags: 0
-  m_NavMeshData: {fileID: 0}
+  m_NavMeshData: {fileID: 23800000, guid: d9f3f711d8439c24684696278b521625, type: 2}
 --- !u!1 &24383352
 GameObject:
   m_ObjectHideFlags: 0
@@ -171,7 +171,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.7777778, y: 1}
+    m_SensorSize: {x: 1.7780749, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -187,7 +187,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 24383352}
-  m_LocalRotation: {x: -0.10889956, y: 0.88892114, z: -0.27988413, w: -0.3458686}
+  m_LocalRotation: {x: -0.11417062, y: 0.8844443, z: -0.29254913, w: -0.34516436}
   m_LocalPosition: {x: 28.50867, y: 5.0382442, z: 31.436901}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -402,7 +402,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -594,7 +594,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -652,7 +652,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.7777778, y: 1}
+    m_SensorSize: {x: 1.7780749, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -668,7 +668,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 296967678}
-  m_LocalRotation: {x: -0.058753733, y: 0.29097623, z: 0.01790607, w: 0.9547567}
+  m_LocalRotation: {x: -0.05419696, y: 0.29068604, z: 0.016494233, w: 0.95513994}
   m_LocalPosition: {x: 3.222683, y: -1.2907596, z: -0.41814804}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -883,7 +883,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -963,7 +963,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -1113,7 +1113,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -1300,7 +1300,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -1358,7 +1358,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.7777778, y: 1}
+    m_SensorSize: {x: 1.7780749, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -1374,7 +1374,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 695638684}
-  m_LocalRotation: {x: -0.002289184, y: 0.9975956, z: -0.05597638, w: -0.040797196}
+  m_LocalRotation: {x: -0.002380108, y: 0.99745184, z: -0.058745526, w: -0.040412318}
   m_LocalPosition: {x: 17.166008, y: 5.049014, z: 50.444088}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -1566,7 +1566,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -1687,7 +1687,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -1745,7 +1745,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.7777778, y: 1}
+    m_SensorSize: {x: 1.7780749, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -1761,7 +1761,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1185334137}
-  m_LocalRotation: {x: -0.09689273, y: 0.59537315, z: 0.07262921, w: 0.79427177}
+  m_LocalRotation: {x: -0.08912398, y: 0.5933251, z: 0.06632656, w: 0.79725975}
   m_LocalPosition: {x: 5.500286, y: -1.1095903, z: 13.56329}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -1904,7 +1904,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -2065,7 +2065,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.7777778, y: 1}
+    m_SensorSize: {x: 1.7780749, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -2081,7 +2081,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1524269645}
-  m_LocalRotation: {x: -0.011295177, y: 0.944117, z: 0.03253127, w: 0.3278068}
+  m_LocalRotation: {x: -0.009714659, y: 0.9436081, z: 0.027799115, w: 0.32975256}
   m_LocalPosition: {x: 3.1109295, y: -0.076504946, z: 30.393349}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -4838,22 +4838,22 @@ PrefabInstance:
     - target: {fileID: 4075318269632331592, guid: 213b1091d09ecda43891b1687a8da380,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.79427177
+      value: 0.79725975
       objectReference: {fileID: 0}
     - target: {fileID: 4075318269632331592, guid: 213b1091d09ecda43891b1687a8da380,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.09689273
+      value: -0.08912398
       objectReference: {fileID: 0}
     - target: {fileID: 4075318269632331592, guid: 213b1091d09ecda43891b1687a8da380,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.59537315
+      value: 0.5933251
       objectReference: {fileID: 0}
     - target: {fileID: 4075318269632331592, guid: 213b1091d09ecda43891b1687a8da380,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.07262921
+      value: 0.06632656
       objectReference: {fileID: 0}
     - target: {fileID: 7387695715104105704, guid: 213b1091d09ecda43891b1687a8da380,
         type: 3}
